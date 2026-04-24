@@ -1,7 +1,6 @@
 # Online-Car-rental-System
 
 <h2> Instructions: How to Run? </h2>
-<p>
 1. After you finish downloading the project, unzip the project file and head over to the project root folder.
 2. You can also create a Virtual Environment and activate it.
 3. Open your Terminal/Command Prompt in the project’s root folder.
@@ -13,4 +12,4 @@
 9. At last, open up your favourite web browser
 10. Go to URL “http://127.0.0.1/[ PORT_NUMBER ]/“
 11. For the Admin Panel credentials, you have to create one with a superuser.
-</p>
+
